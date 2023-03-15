@@ -27,5 +27,7 @@ You will be able to:
 4. Explain inverse data flow in your own words.
 
 ## Demo: Karaoke
-- display songs and singers in list; import data at the lowest level it's needed
-- set state in songList to toggle between singing and not singing (color)
+Deliverables:
+- display songs and singers in lists; import data at the lowest level it's needed
+- set state of singer in singerList to toggle between singing and not singing (add microphone emoji)
+- then, make the "now playing" component functional; you have to lift state to accomplish that
