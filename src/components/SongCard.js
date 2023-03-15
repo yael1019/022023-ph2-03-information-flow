@@ -1,8 +1,11 @@
 import React from 'react'
 
-function SongCard() {
+function SongCard({title, artist}) {
   return (
-    <div></div>
+    <div>
+      <h2>{title}</h2>
+      <h3>{artist}</h3>
+    </div>
   )
 }
 
