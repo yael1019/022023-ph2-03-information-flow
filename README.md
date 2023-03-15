@@ -6,6 +6,12 @@ You will be able to:
 - Recognize the pattern for changing state in a parent component from a child component
 - Explain the role that callback functions play in changing parent state
 
+## Review
+- build component hierarchy for karaoke from wireframe (on board)
+- plan what states we'll need
+- plan what events we'll need
+- question we'll be answering: where should we put those states and events?
+
 ## Props only flow down
 - best practice: keep it local
 - state must be in closest common parent
